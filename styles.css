@@ -34,6 +34,10 @@ h1{
     margin-top: 30px; /* Add a top margin to avoid content overlay */
 }
 
+.padder {
+	margin-bottom: 30px; 
+}
+
 /* How to make paragraphs look like paragraphs */
 p.a{
 	text-indent: 50px;
@@ -46,5 +50,5 @@ p.a{
    background-color: #333;
    color: white;
    text-align: center;
-   padding: 14px 16px;
+   
 }
