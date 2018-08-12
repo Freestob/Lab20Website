@@ -27,7 +27,24 @@ h1{
     color: black;
 }
 
+
+
 /* Main content */
 .main {
     margin-top: 30px; /* Add a top margin to avoid content overlay */
+}
+
+/* How to make paragraphs look like paragraphs */
+p.a{
+	text-indent: 50px;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #333;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
 }
